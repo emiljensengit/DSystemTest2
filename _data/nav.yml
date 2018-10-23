@@ -1,0 +1,71 @@
+primary:
+  - href: /designandcode/
+  - href: /examples/
+#  - href: /getting-started/
+#  - href: /faellesoffentlige-krav/
+  - href: /about/
+
+mobile:
+  - href: /designandcode/
+    categorynav: 'UI components'
+  - href: /examples/
+    categorynav: 'Page templates'
+#  - href: /getting-started/
+#  - href: /faellesoffentlige-krav/
+  - href: /about/
+
+UI components:
+  - alternative_text: Overblik
+    href: /designandcode/
+  - href: /designandcode/accessibility/
+  - href: /designandcode/utility/
+  - href: /designandcode/typography/
+  - href: /designandcode/colors/
+  - href: /designandcode/ikoner/
+  - href: /designandcode/kanter/
+  - href: /designandcode/grids/
+  - href: /designandcode/buttons/
+  - href: /designandcode/tags/
+  - href: /designandcode/accordions/
+  - href: /designandcode/beskeder/
+  - href: /designandcode/cards/
+  - href: /designandcode/form-controls/
+  - href: /designandcode/select2-multiselect/
+  - href: /designandcode/search/
+  - href: /designandcode/badges/
+  - href: /designandcode/tables/
+  - href: /designandcode/datatables/
+  - href: /designandcode/trinindikatorer/
+  - href: /designandcode/sidenav/
+  - href: /designandcode/tabnav/
+  - href: /designandcode/spinner/
+  - href: /designandcode/overflowmenu/
+  - href: /designandcode/modals/
+  - href: /designandcode/tooltip/
+  - href: /designandcode/collapse/
+  - href: /designandcode/headers/
+  - href: /designandcode/footers/
+
+Getting started:
+  - alternative_text: Overblik
+    href: /getting-started/
+  - href: /getting-started/developers/
+  - href: /getting-started/designers/
+  - href: /getting-started/projectmanagers/
+  - href: /getting-started/integration-til-portalerne/
+  - href: /getting-started/bidrag-til-designsystemet/
+  - href: /getting-started/video-tutorials/
+  - href: /getting-started/loesninger/
+
+Page templates:
+  - href: /examples/
+  - href: /examples/pageexamples/
+
+About:
+  - alternative_text: Overblik
+    href: /about/
+  - href: /about/releases/
+# - href: /about/updates/
+# - href: /about/product-roadmap/
+# - href: /about/research/
+# - href: /about/component-status/

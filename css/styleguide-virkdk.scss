@@ -1,0 +1,17 @@
+---
+---
+//Above dashes are used by Jekyll in main scss files (not needed in partials). DO NOT DELETE.
+
+body {
+    opacity: 1 !important;
+}
+
+// sass-lint:disable-all
+// Imports
+@import 'variables';
+@import 'vendor/dkwds/dkwds-virkdk';
+@import 'styleguide-base';
+
+.is-neutral{ display:none }
+.is-virk { display:block }
+.is-borger{ display:none }
